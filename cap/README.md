@@ -24,7 +24,17 @@ PCAP Analysis
 
 Extracting FTP Credentials from PCAP
 
-After opening the .pcap file in Wireshark (USER nathan PASS Buck3tH4tF0RM3!)
+After opening the .pcap file in Wireshark (USER nathan PASS Buck3tH4tF0RM3!) 
+
+![image](https://github.com/user-attachments/assets/69544a56-1ded-413a-b97f-4728feda65bb)
+
+![image](https://github.com/user-attachments/assets/ad01f9c9-60a9-482e-a082-583f5c996964)
+
+
+
+
+
+
 
 
 
