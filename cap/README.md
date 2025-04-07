@@ -30,6 +30,21 @@ After opening the .pcap file in Wireshark (USER nathan PASS Buck3tH4tF0RM3!)
 
 ![image](https://github.com/user-attachments/assets/ad01f9c9-60a9-482e-a082-583f5c996964)
 
+Privilege Escalation
+
+https://github.com/peass-ng/PEASS-ng/releases/latest/download/linpeas.sh 
+
+![image](https://github.com/user-attachments/assets/ab8ac343-b468-4f8f-b3ed-869331d823a8)
+
+![image](https://github.com/user-attachments/assets/53aa9aaf-d224-4ca8-b569-ea89b8c4757a)
+
+
+
+
+
+
+
+
 
 
 
