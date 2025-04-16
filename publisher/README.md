@@ -1,4 +1,4 @@
-Namp Scan:
+Nmap Scan:
 
 ![image](https://github.com/user-attachments/assets/323a3a6a-f974-4340-8064-084efd1a9b70)
 
