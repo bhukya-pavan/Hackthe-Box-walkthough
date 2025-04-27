@@ -12,6 +12,12 @@ Port 80 (HTTP)
 
 ![image](https://github.com/user-attachments/assets/344f609e-718b-420f-9ef6-e38ca9169cce)
 
+![image](https://github.com/user-attachments/assets/76e544e3-dd0b-4e9b-b9b0-e79ffdcfdc67)
+
+![image](https://github.com/user-attachments/assets/a0324a05-09cd-4221-9250-aafba1b2709a)
+
+
+
 
 
 
